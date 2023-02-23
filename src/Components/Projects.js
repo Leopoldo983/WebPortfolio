@@ -12,35 +12,35 @@ export const Projects = () => {
       title: "Frontend Developer",
       description: "Movie App",
       imgUrl: projImg1,
-      urlProject: 'https://6372f2b55309e04c6679700d--effervescent-treacle-ba7f12.netlify.app'
+      urlProject: 'https://phenomenal-croissant-7d3dbe.netlify.app/'
     },
     {
       title: "Frontend Developer",
       description: "Short links page",
       imgUrl: projImg2,
-      urlProject: 'https://6398ab541983415caca6deb3--shimmering-paprenjak-844d43.netlify.app/'
+      urlProject: 'https://linksappp.netlify.app/'
     },
     {
       title: "Frontend Developer",
       description: "Todo List",
       imgUrl: projImg3,
-      urlProject: 'https://6372f51b23ca9953f67ffe45--wondrous-monstera-455b12.netlify.app/'
+      urlProject: 'https://nootessappp.netlify.app/'
     },
     {
       title: "Frontend Developer",
-      description: "Rick & Morty app",
+      description: "Soon",
       imgUrl: projImg1,
       urlProject: ''
     },
     {
       title: "Frontend Developer",
-      description: "SPA",
+      description: "Soon",
       imgUrl: projImg2,
       urlProject: ''
     },
     {
       title: "Frontend Developer",
-      description: "Climate App",
+      description: "Soon",
       imgUrl: projImg3,
       urlProject: ''
     },
